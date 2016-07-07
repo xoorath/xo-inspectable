@@ -81,7 +81,7 @@ void OnSpeedChanged(Inspectable<float>* inspectable, const float& previousSpeed,
 # Street Cred
 An inspired implementation of [Twisted Oaks Lens](https://github.com/twistedoakstudios/tounityutils/tree/master/assets/lenses)
  
-Also inspired [Sean Barrett's stb](https://github.com/nothings).
+Also inspired by [Sean Barrett's stb](https://github.com/nothings).
 
 # LICENSE
 This software is dual-licensed to the public domain and under the following license: 
