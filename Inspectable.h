@@ -8,8 +8,10 @@
 //    Jared Thomson (@xoorath)
 //
 //  STREET CRED
-//    An inspired implementation of Twisted Oaks Lens' and Sean Barrett's stb.
+//    An inspired implementation of Twisted Oaks Lens'. 
 //    https://github.com/twistedoakstudios/tounityutils/tree/master/assets/lenses
+//
+//    Also inspired Sean Barrett's stb.
 //    https://github.com/nothings
 //
 //  LICENSE
